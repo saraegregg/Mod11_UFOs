@@ -28,10 +28,11 @@ Dana has constructed her HTML page and table, but the next step is adding filter
 
 ### Challenge Results
 The code I have written will notice when a new input has been added to any of the text boxes on the left hand side of the HTML page and the cursor removed from that box. This triggers the updateFilters fuction to apply the filters to the table and only display rows that match the critera defined by the text input boxes. 
-![FilteredTable.png] (https://github.com/saraegregg/Mod11_UFOs/blob/main/static/images/FilteredTable.png)
+
+![FilteredTable.png](https://github.com/saraegregg/Mod11_UFOs/blob/main/static/images/FilteredTable.png)
 
 When a filter box is cleared of text, that filter is also removed from the table. After removing any filters that may have been added, the entire table is displayed.
-![UnfilteredTable.png] ()
+![UnfilteredTable.png](https://github.com/saraegregg/Mod11_UFOs/blob/main/static/images/UnfilteredTable.png)
 
 
 ### Challenge Summary
