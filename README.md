@@ -1,4 +1,3 @@
-# Module 11 Challenge
 
 ---
 ## UFO Sightings
